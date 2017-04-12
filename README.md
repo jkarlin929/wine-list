@@ -1,4 +1,4 @@
-![Time for wine!](https://i.giphy.com/l1IY9YkG69nYx5qko.gif)
+![Time for wine!](https://giphy.com/gifs/536KIvytx4AO4)
 
 
 
