@@ -1,5 +1,4 @@
-![Time for wine!](https://giphy.com/gifs/536KIvytx4AO4)
-
+![Time for wine!](https://i.giphy.com/536KIvytx4AO4.gif)
 
 
 # APP 1: React Wines
