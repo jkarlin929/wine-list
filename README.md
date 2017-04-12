@@ -4,8 +4,7 @@
 # APP 1: React Wines
 Tonight we're going to build a simple React app using around newly acquired Axios skills. For our data, we'll be using the wine api from [Arun's handy API generator](http://myapi-profstream.herokuapp.com/).
 
-### Completion
-Part 1 - 4 is required - Part 5 is bonus
+
 
 ### Submission
 Homework is due tonight by midnight.
@@ -21,8 +20,12 @@ Build a Wine Management app!  Your app should have div that is a viewing window 
 * Test out this API to see what kind of data you can get back - save the link to your API somewhere
 * For tonight we're not going to worry about full CRUD functionality yet - Your app should just have views for *show all wines* and *show one wine*
 
+
+
 #### Bonus - New Wine Form
 If you finish early and want to continue practicing your React skills, try making a form and implementing the functionality to let users add new wines to the API.  We haven't taught you this yet, but we'll be covering it very soon.  Give it a stab and see if you can get it working.  Hint - it's not all that different that good old html forms!
+
+
 
 
 # APP 2: Finish the Calculator
