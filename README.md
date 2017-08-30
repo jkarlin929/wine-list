@@ -25,9 +25,3 @@ Build a Wine Management app!  Your app should have div that is a viewing window 
 #### Bonus - New Wine Form
 If you finish early and want to continue practicing your React skills, try making a form and implementing the functionality to let users add new wines to the API.  We haven't taught you this yet, but we'll be covering it very soon.  Give it a stab and see if you can get it working.  Hint - it's not all that different that good old html forms!
 
-
-
-
-# APP 2: Finish the Calculator
-
-The calculator homework on Monday was tough.  Real tough.  But now we have more experience and more time, so let's revisit it and update our submissions.  For tonight, revisit the calculator and get it working.  Once you're satisfied, *update your old submission* - add a comment below the original post with how much more you've completed (out of 5), your new comfortability with the topic (out of 5).  Keep your old information in the original submission so we can see your progress!
