@@ -2,7 +2,7 @@
 
 
 # APP 1: React Wines
-Tonight we're going to build a simple React app using around newly acquired Axios skills. For our data, we'll be using the wine api from [Arun's handy API generator](http://myapi-profstream.herokuapp.com/).
+Tonight we're going to build a simple React app using around newly acquired Axios and Webpack skills. For our data, we'll be using the wine api from [Arun's handy API generator](http://myapi-profstream.herokuapp.com/).
 
 
 
@@ -10,7 +10,7 @@ Tonight we're going to build a simple React app using around newly acquired Axio
 Homework is due tonight by midnight.
 
 ### Assignment
-Build a Wine Management app!  Your app should have div that is a viewing window and a list of buttons.  The top button should say "view all", and when you click it all of the wines are rendered to the viewing window.  You should also have a list of buttons, one button for each wine.  Each button should say "view wine ${wine.id}".  Then when you click on that button, info about the wine fills the viewing window.
+Build a Wine Management app! Take a stab at building a full-stack React app using webpack and `npm run build`. Your app should have div that is a viewing window and a list of buttons.  The top button should say "view all", and when you click it all of the wines are rendered to the viewing window.  You should also have a list of buttons, one button for each wine.  Each button should say "view wine ${wine.id}".  Then when you click on that button, info about the wine fills the viewing window.
 
 
 #### Note: Wine API
