@@ -10,7 +10,7 @@ Tonight we're going to build a simple React app using around newly acquired Axio
 Homework is due tonight by midnight.
 
 ### Assignment
-Build a Wine Management app! Take a stab at building a full-stack React app using webpack and `npm run build`. Your app should have div that is a viewing window and a list of buttons.  The top button should say "view all", and when you click it all of the wines are rendered to the viewing window.  You should also have a list of buttons, one button for each wine.  Each button should say "view wine ${wine.id}".  Then when you click on that button, info about the wine fills the viewing window.
+Build a Wine Management app! Your app should have div that is a viewing window and a list of buttons.  The top button should say "view all", and when you click it all of the wines are rendered to the viewing window.  You should also have a list of buttons, one button for each wine.  Each button should say "view wine ${wine.id}".  Then when you click on that button, info about the wine fills the viewing window.
 
 
 #### Note: Wine API
@@ -24,4 +24,8 @@ Build a Wine Management app! Take a stab at building a full-stack React app usin
 
 #### Bonus - New Wine Form
 If you finish early and want to continue practicing your React skills, try making a form and implementing the functionality to let users add new wines to the API.  We haven't taught you this yet, but we'll be covering it very soon.  Give it a stab and see if you can get it working.  Hint - it's not all that different that good old html forms!
+
+#### BIG BONUS - Webpack
+
+If you finish the other bonus, refactor your app to be a webpacked full-stack app with a back end that handles your API calls. You might need to change where you make your API calls and the destination URL for your API call from your React app to your node server. 2 step API call??
 
