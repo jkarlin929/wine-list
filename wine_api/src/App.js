@@ -59,7 +59,7 @@ class App extends Component {
     console.log(this.state)
     return (
       <div className="App">
-        <h1>The Little Wine App</h1>
+        <h1>The Super Cool React Wine App</h1>
         <Buttons wineList={wineList} showAll={this.showAll} showOne={this.showOne} />
         <ViewWindow contents={viewWindowContents} wineList={wineList} currentWine={currentWine} />
       </div>
